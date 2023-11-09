@@ -1,2 +1,2 @@
 # SAYNA-UXUI-DESIGNPANTHER
-maquette de design Black Panther
+maquette d'un site internet "Black Panther"
